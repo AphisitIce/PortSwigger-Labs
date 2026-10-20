@@ -1,8 +1,6 @@
 # SQL Injection Vulnerability in WHERE Clause Allowing Retrieval of Hidden Data
 
-## Lab Result
 
-![Hidden Data](hidden-data.png)
 
 ## Lab Description
 
