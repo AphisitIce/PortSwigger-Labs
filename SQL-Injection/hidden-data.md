@@ -4,7 +4,7 @@
 
 ![Hidden Data](hidden-data.png)
 
-## Summary
+## Lab Description
 
 This lab demonstrates how improper input validation can expose information that should not be accessible to users.
 
@@ -19,6 +19,12 @@ This lab demonstrates how improper input validation can expose information that 
 
 - Burp Suite
 - PortSwigger Web Security Academy
+
+## Key Takeaways
+
+- Never trust user input
+- Validate and sanitize all user-controlled data
+- Secure coding practices help reduce SQL injection risks
 
 ## Status
 
