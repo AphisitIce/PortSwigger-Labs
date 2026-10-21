@@ -2,7 +2,7 @@
 
 ## Lab Result
 
-![Lab Solved](images/Reflected-XSS-into-HTML-context-with-nothing-encoded.png)
+![Lab Solved](Reflected-XSS-into-HTML-context-with-nothing-encoded.png)
 
 ---
 
