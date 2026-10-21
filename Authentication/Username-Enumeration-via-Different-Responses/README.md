@@ -2,7 +2,7 @@
 
 ## Lab Result
 
-![Username Enumeration via Different Responses](Username-Enumeration-via-Different-Responses.png)
+![Lab Result](Username-Enumeration-via-Different-Responses.png)
 
 ## Lab Description
 
